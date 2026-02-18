@@ -25,7 +25,7 @@ This is a high-performance, mobile-responsive portfolio designed to showcase pre
 ## 📬 Contact the CEO
 Interested in a collaboration or premium design services?
 * **Website:** [cynthia-tania.github.io](https://cynthia-tania.github.io)
-* **Inquiries:** [Your Email or Social Link]
+* **Inquiries:** [china.egwuonwu@stu.UNIZIK.edu.ng]
 
 ---
 *© 2026 Cynthia Tania Empire Tech. All rights reserved.*
